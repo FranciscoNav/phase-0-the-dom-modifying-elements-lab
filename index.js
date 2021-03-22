@@ -9,3 +9,4 @@ newHeader.innerHTML = ('Franisco is the champion');
 let idk = document.getElementById('main');
 idk.remove();
 
+ 
